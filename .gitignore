@@ -22,6 +22,7 @@
 hs_err_pid*
 
 /out
+/bin/
 # Idea config files
 .idea/
 *.iml
