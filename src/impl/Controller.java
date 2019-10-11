@@ -25,7 +25,7 @@ public class Controller extends BotBase {
 	}
 
 	public static void main(String[] args) throws IOException {
-		GameState game = new GameState(new StupidBot());
+		GameState game = new GameState(new Controller());
 		game.connect();
 	}
 }
